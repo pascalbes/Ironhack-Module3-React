@@ -1,0 +1,8 @@
+
+todo @ guillaume:
+
+admin : forms artist AND albums
+-- FIX select/option default behaviour :
+---- the forms are listening to onChange events:
+ if the user doesn't select one time, empty objectid references are sent
+
